@@ -28,7 +28,8 @@ Aqui estão algumas das atividades práticas que estou realizando:
 📁 Todos os meus hands-on estão organizados nos repositórios abaixo.
 
 📫 Contato
-💼 LinkedIn [https://github.com/Nayarars/Nayarars/blob/main/www.linkedin.com/in/nayarasouto7]
+💼 LinkedIn [www.linkedin.com/in/nayarasouto7]
+
 ✉️ E-mail: nayararod7@gmail.com
 
 💻 Estou construindo meu conhecimento passo a passo.  
